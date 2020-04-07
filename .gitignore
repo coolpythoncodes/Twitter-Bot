@@ -1,3 +1,5 @@
 venv
 config.py
 .vscode
+__pycache__
+last_seen.txt
